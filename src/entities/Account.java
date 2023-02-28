@@ -38,4 +38,11 @@ public class Account {
     public void withdraw(double amount){
         balance -= amount + 5.0;
     }
+
+    @Override
+    public String toString() {
+        return "Id: " + number +
+                "\nHolder: " + holder +
+                "\nBalance: $" + balance;
+    }
 }
