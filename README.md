@@ -1,3 +1,3 @@
 # How to Run
 .
-Clone this repository and just run "Program.java"
+Clone this repository and run "Program.java"
