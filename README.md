@@ -1,2 +1,3 @@
-# bankAccount
- Bank Account manager
+# How to Run
+.
+Clone this repository and simply run "Program.java"
